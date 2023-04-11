@@ -18,6 +18,7 @@
     "husky": "^8.0.0"
   },
   "dependencies": {
+    "fs": "^0.0.1-security",
     "lint-staged": "^13.1.1"
   }
 }
